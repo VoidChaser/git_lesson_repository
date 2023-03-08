@@ -1,4 +1,3 @@
 # I am author!
 print("Hello, python")
-# 2023 (c) Tr
-
+# 2017-2018 (c) Me
